@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLy_Dien_nuoc_KTX</RootNamespace>
+    <AssemblyName>QLy_Dien_nuoc_KTX</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dang_Nhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dang_Nhap.Designer.cs">
+      <DependentUpon>Dang_Nhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMain.Designer.cs">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoa_don.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoa_don.Designer.cs">
+      <DependentUpon>Hoa_don.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hop_dong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hop_dong.Designer.cs">
+      <DependentUpon>Hop_dong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLyPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLyPhong.Designer.cs">
+      <DependentUpon>QLyPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLySV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLySV.Designer.cs">
+      <DependentUpon>QLySV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLy_cong_to_dien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLy_cong_to_dien.Designer.cs">
+      <DependentUpon>QLy_cong_to_dien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLy_cong_to_nuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLy_cong_to_nuoc.Designer.cs">
+      <DependentUpon>QLy_cong_to_nuoc.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dang_Nhap.resx">
+      <DependentUpon>Dang_Nhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMain.resx">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoa_don.resx">
+      <DependentUpon>Hoa_don.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hop_dong.resx">
+      <DependentUpon>Hop_dong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QLyPhong.resx">
+      <DependentUpon>QLyPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLySV.resx">
+      <DependentUpon>QLySV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLy_cong_to_dien.resx">
+      <DependentUpon>QLy_cong_to_dien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLy_cong_to_nuoc.resx">
+      <DependentUpon>QLy_cong_to_nuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-dep-5-2 %281%29.webp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50 hình nền background đẹp cho máy tính - Kho ảnh đẹp nhất.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

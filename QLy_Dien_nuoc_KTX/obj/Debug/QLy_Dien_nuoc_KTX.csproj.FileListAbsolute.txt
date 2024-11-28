@@ -1,0 +1,17 @@
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.csproj.AssemblyReference.cache
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.Properties.Resources.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.csproj.GenerateResource.cache
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.Dang_Nhap.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\bin\Debug\QLy_Dien_nuoc_KTX.exe.config
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\bin\Debug\QLy_Dien_nuoc_KTX.exe
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\bin\Debug\QLy_Dien_nuoc_KTX.pdb
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.exe
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.pdb
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.fMain.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.QLySV.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.QLyPhong.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.QLy_cong_to_dien.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.QLy_cong_to_nuoc.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.Hoa_don.resources
+C:\Users\My Computer\source\repos\QLy_Dien_nuoc_KTX\QLy_Dien_nuoc_KTX\obj\Debug\QLy_Dien_nuoc_KTX.Hop_dong.resources

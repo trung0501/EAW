@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|c:\\users\\admin\\downloads\\qly_dien_nuoc_ktx_nhom18\\qly_dien_nuoc_ktx\\qly_dien_nuoc_ktx\\qly_dien_nuoc_ktx\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\qly_cong_to_nuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\qly_cong_to_nuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\qlyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\qlyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\qly_cong_to_dien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\qly_cong_to_dien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\qlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\qlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\hop_dong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\hop_dong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\hop_dong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\hop_dong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\qly_dien_nuoc_ktx\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEBA92-A0F5-4678-B517-E5248BEBE9FE}|QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX.csproj|solutionrelative:qly_dien_nuoc_ktx\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 170,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hop_dong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hop_dong.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\Hop_dong.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hop_dong.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hop_dong.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-27T14:49:55.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLy_cong_to_nuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_cong_to_nuoc.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\QLy_cong_to_nuoc.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_cong_to_nuoc.cs [Design]",
+              "RelativeToolTip": "QLy_Dien_nuoc_KTX\\QLy_cong_to_nuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:49:55.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLyPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLyPhong.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\QLyPhong.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLyPhong.cs [Design]",
+              "RelativeToolTip": "QLy_Dien_nuoc_KTX\\QLyPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:49:55.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\fMain.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\fMain.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\fMain.cs [Design]",
+              "RelativeToolTip": "QLy_Dien_nuoc_KTX\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:49:55.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Program.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Program.cs",
+              "RelativeToolTip": "QLy_Dien_nuoc_KTX\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:49:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dang_Nhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Dang_Nhap.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\Dang_Nhap.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Dang_Nhap.cs [Design]",
+              "RelativeToolTip": "QLy_Dien_nuoc_KTX\\Dang_Nhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:49:55.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLy_cong_to_dien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_cong_to_dien.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\QLy_cong_to_dien.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_cong_to_dien.cs [Design]",
+              "RelativeToolTip": "QLy_Dien_nuoc_KTX\\QLy_cong_to_dien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:49:55.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLySV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLySV.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\QLySV.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLySV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLySV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-27T14:49:55.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hoa_don.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hoa_don.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\Hoa_don.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hoa_don.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hoa_don.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-27T14:49:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hop_dong.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hop_dong.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\Hop_dong.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hop_dong.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Downloads\\QLy_dien_nuoc_KTX\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\Hop_dong.cs*",
+              "ViewState": "AQIAAD4AAAAAAAAAAAD4v0sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-27T14:49:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\fMain.cs",
+              "RelativeDocumentMoniker": "QLy_Dien_nuoc_KTX\\fMain.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLy_dien_nuoc_KTX_Nhom18\\QLy_dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\QLy_Dien_nuoc_KTX\\fMain.cs",
+              "RelativeToolTip": "QLy_Dien_nuoc_KTX\\fMain.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:49:55.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
